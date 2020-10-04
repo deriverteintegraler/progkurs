@@ -10,4 +10,4 @@ Dette repositoriet brukes i streamet programmeringskurs for studentene i Kongsbe
 1. Kopier adressen til kursmateriellet på GitHub: https://github.com/deriverteintegraler/progkurs
 2. Åpne https://mybinder.org/
 3. Lim inn adressen til kursmateriellet i det øverste feltet.
-4. Trykk "Launch"
+4. Trykk "Launch". Vent på mybinder. Det kan ta fra et halvt minutt til ti minutter å kjøre denne prosessen.
