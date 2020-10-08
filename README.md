@@ -1,4 +1,4 @@
-Dette repositoriet brukes i streamet programmeringskurs for studentene i Kongsberg 04.10.2020.
+Dette repositoriet brukes i streamet programmeringskurs.
 
 # Hvis du vil ha kursmateriellet til senere
 1. Gå til toppen av denne siden, trykk på den grønne "Code"-knappen og velg "Download ZIP". Unzip til ønsket mappe.
